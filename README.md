@@ -1,4 +1,6 @@
-### Array
+# Remaining Problems
+
+### Arrays
 
 ```
 1. Find Union and Intersectin of 2 sorted arrays
