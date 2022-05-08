@@ -17,3 +17,11 @@
 2. Spiral Matrix
 3. Wave matrix
 ```
+
+### Binary Search
+
+```
+1. Peak in a mountain Array
+2. Search In a sorted array of unknown size
+3-9. Advance Sheet 
+```
