@@ -5,9 +5,8 @@
 ```
 1. Find Union and Intersectin of 2 sorted arrays
 2. Minimum swaps required to bring elements <= k together
-3. Kadane's Algorithm
-4-14 --> Whole Second Sheet
-15. Find first repeating element (using hashmap)
+3. Find subarray with 0 sum in aray
+4. Find subarray with equal 0s and 1s. (H)
 ```
 
 ### 2DArrays
